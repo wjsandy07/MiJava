@@ -2,8 +2,8 @@ public class HolaMundo {
     public static void main(String[] args) throws Exception {
         
         String nombre = "Estudiante";
-        int a = 5;
-        int b = 3;
+        int a = 10;
+        int b = 0;
         int suma = a + b;
 
         System.out.println("Hola, " + nombre + "!");
